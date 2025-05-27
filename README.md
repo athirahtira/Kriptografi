@@ -18,7 +18,7 @@ Proyek ini merupakan implementasi algoritma **Data Encryption Standard (DES)** d
 
 ## 📖 Apa itu DES?
 
-DES termasuk dalam kategori enkripsi simetris, yang berarti kunci yang digunakan untuk mengenkripsi data adalah kunci yang sama untuk mendekripsi data tersebut. DES menggunakan kunci dengan panjang 64 bit, namun hanya 56 bit yang efektif digunakan untuk enkripsi karena 8 bit sisanya digunakan untuk bit paritas [3]. Proses enkripsi dalam DES melibatkan 16 putaran (round) transformasi data dengan menggunakan subkunci yang berbeda pada setiap putarannya [4]. Struktur ini membuat DES cukup kuat untuk masanya, meskipun kemajuan teknologi komputasi modern telah membuat algoritma ini rentan terhadap serangan brute force. Keunggulan utama DES terletak pada kesederhanaannya yang membuatnya mudah diimplementasikan pada berbagai perangkat keras dan perangkat lunak, serta kecepatan prosesnya yang relatif tinggi 
+DES termasuk dalam kategori enkripsi simetris, yang berarti kunci yang digunakan untuk mengenkripsi data adalah kunci yang sama untuk mendekripsi data tersebut. DES menggunakan kunci dengan panjang 64 bit, namun hanya 56 bit yang efektif digunakan untuk enkripsi karena 8 bit sisanya digunakan untuk bit paritas. Proses enkripsi dalam DES melibatkan 16 putaran (round) transformasi data dengan menggunakan subkunci yang berbeda pada setiap putarannya. Struktur ini membuat DES cukup kuat untuk masanya, meskipun kemajuan teknologi komputasi modern telah membuat algoritma ini rentan terhadap serangan brute force. Keunggulan utama DES terletak pada kesederhanaannya yang membuatnya mudah diimplementasikan pada berbagai perangkat keras dan perangkat lunak, serta kecepatan prosesnya yang relatif tinggi 
 
 ---
 
